@@ -1,0 +1,17 @@
+D:\Scoala\facultate\an2\s2\paw\PROIECT\ProiectPaw\ProiectPaw\bin\Debug\ProiectPaw.exe.config
+D:\Scoala\facultate\an2\s2\paw\PROIECT\ProiectPaw\ProiectPaw\bin\Debug\ProiectPaw.exe
+D:\Scoala\facultate\an2\s2\paw\PROIECT\ProiectPaw\ProiectPaw\bin\Debug\ProiectPaw.pdb
+D:\Scoala\facultate\an2\s2\paw\PROIECT\ProiectPaw\ProiectPaw\obj\Debug\ProiectPaw.csprojAssemblyReference.cache
+D:\Scoala\facultate\an2\s2\paw\PROIECT\ProiectPaw\ProiectPaw\obj\Debug\ProiectPaw.Properties.Resources.resources
+D:\Scoala\facultate\an2\s2\paw\PROIECT\ProiectPaw\ProiectPaw\obj\Debug\ProiectPaw.csproj.GenerateResource.cache
+D:\Scoala\facultate\an2\s2\paw\PROIECT\ProiectPaw\ProiectPaw\obj\Debug\ProiectPaw.csproj.CoreCompileInputs.cache
+D:\Scoala\facultate\an2\s2\paw\PROIECT\ProiectPaw\ProiectPaw\obj\Debug\ProiectPaw.exe
+D:\Scoala\facultate\an2\s2\paw\PROIECT\ProiectPaw\ProiectPaw\obj\Debug\ProiectPaw.pdb
+D:\Scoala\facultate\an2\s2\paw\PROIECT\ProiectPaw\ProiectPaw\obj\Debug\ProiectPaw.Meniu.resources
+D:\Scoala\facultate\an2\s2\paw\PROIECT\ProiectPaw\ProiectPaw\obj\Debug\ProiectPaw.PachetForm.resources
+D:\Scoala\facultate\an2\s2\paw\PROIECT\ProiectPaw\ProiectPaw\obj\Debug\ProiectPaw.TuristForm.resources
+D:\Scoala\facultate\an2\s2\paw\PROIECT\ProiectPaw\ProiectPaw\obj\Debug\ProiectPaw.ShowOffers.resources
+D:\Scoala\facultate\an2\s2\paw\PROIECT\ProiectPaw\ProiectPaw\obj\Debug\ProiectPaw.ShowTravellers.resources
+D:\Scoala\facultate\an2\s2\paw\PROIECT\ProiectPaw\ProiectPaw\obj\Debug\ProiectPaw.Grafic.resources
+D:\Scoala\facultate\an2\s2\paw\PROIECT\ProiectPaw\ProiectPaw\obj\Debug\ProiectPaw.UserControl1.resources
+D:\Scoala\facultate\an2\s2\paw\PROIECT\ProiectPaw\ProiectPaw\obj\Debug\ProiectPaw.login.resources
